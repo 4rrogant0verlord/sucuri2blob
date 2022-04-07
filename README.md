@@ -1,7 +1,7 @@
 <p align="center">
   <h2 align="center">Sucuri-2-BlobStorage</h2>
   <p>
-  Script para transferir eventos del Sucuri Web Application Firewall (WAF) hacia Azure Blob Storage, en formato JSON.
+  Script para transferir eventos del Sucuri Web Application Firewall (WAF) hacia Azure Blob Storage, en formato CSV.
   </p>
 </p>
 
